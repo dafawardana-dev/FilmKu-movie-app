@@ -1,0 +1,28 @@
+{
+  "User": [
+    {
+      "id": 1,
+      "name": "Dafa",
+      "email": "mdafa@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": 2,
+      "name": "second",
+      "email": "12",
+      "password": "12"
+    },
+    {
+      "id": 3,
+      "name": "Admin",
+      "email": "admin@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": 4,
+      "name": "M Dafa",
+      "email": "mdafa1@gmail.com",
+      "password": "1234"
+    }
+  ]
+}
